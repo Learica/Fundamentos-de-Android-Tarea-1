@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CourseraProject1</string>
+    <string name="textFront">Bienvenido</string>
+    <string name="buttonFront">Entrar</string>
+</resources>
